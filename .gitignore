@@ -1,0 +1,16 @@
+# Bytecode cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Node.js (frontend) stuff
+node_modules/
+
+# SQLite database (optional)
+*.sqlite3
+
